@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23144" started-at="2019-06-02T20:16:45Z" finished-at="2019-06-02T20:17:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23144" started-at="2019-06-02T20:16:45Z" finished-at="2019-06-02T20:17:08Z">
+      <class name="Framework.TestNGMaven.Practice2">
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNGMaven.Practice2@1a968a59]" name="setEnviroment" is-config="true" duration-ms="7904" started-at="2019-06-02T20:16:45Z" finished-at="2019-06-02T20:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="testLaptopsAndNotebooks()[pri:0, instance:Framework.TestNGMaven.Practice2@1a968a59]" name="testLaptopsAndNotebooks" duration-ms="15097" started-at="2019-06-02T20:16:53Z" finished-at="2019-06-02T20:17:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLaptopsAndNotebooks -->
+      </class> <!-- Framework.TestNGMaven.Practice2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
